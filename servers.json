@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "SideStore",
+      "address": "https://ani.sidestore.io"
+    } ],
+  "cache": "https://servers.sidestore.io/servers.json.hash"
+}
